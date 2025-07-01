@@ -25,7 +25,7 @@ If there is no access to port 8888, grant access with this command: ``` sudo ufw
 **Open browser and go to:**
 👉 http://serverip:8888 or http://localhost:8888 (if you use your pc)
 
-** Now you can get Faucet**
+**Now you can get Faucet**
 Visit Faucet page : https://faucet.octra.network/
 Enter your address..
 
