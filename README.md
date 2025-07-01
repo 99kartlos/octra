@@ -6,6 +6,8 @@
 
 **Discord:** https://discord.gg/octra
 
+------
+
 # How to Run the Wallet Generator
 
 **Clone the repository and go into the folder:**
