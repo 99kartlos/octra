@@ -1,14 +1,13 @@
 # How to Run the Wallet Generator
-Open your terminal
 
-Clone the repository and go into the folder:
+**Clone the repository and go into the folder:**
 
 ```sh
 git clone https://github.com/octra-labs/wallet-gen.git
 cd wallet-gen
 ```
 
-Start the wallet generator:
+**Start the wallet generator:**
 
 On Linux/macOS:
 ```sh
@@ -20,3 +19,9 @@ On Windows:
 ```sh
 start.bat
 ```
+
+If there is no access to port 8888, grant access with this command: ```sh sudo ufw allow 8888 ```
+
+**Open browser and go to:**
+👉 http://serverip:8888 or http://localhost:8888 (if you use your pc)
+
