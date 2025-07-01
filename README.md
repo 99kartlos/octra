@@ -23,7 +23,7 @@ start.bat
 If there is no access to port 8888, grant access with this command: ``` sudo ufw allow 8888 ```
 
 **Open browser and go to:**
-👉 http://serverip:8888 or http://localhost:8888 (if you use your pc)
+👉 http://serverip:8888 or http://localhost:8888 (if you not use VPS)
 
 **Now you can get Faucet**
 Visit Faucet page : https://faucet.octra.network/
@@ -32,6 +32,12 @@ Enter your address..
 ![image](https://github.com/user-attachments/assets/b847625d-6da5-4c7d-8ed6-ce1149324f04)
 
 # First task: Pre-Client
+
+**First let's setup python libraires**
+
+```sh
+sudo apt install python3 python3-pip python3-venv python3-dev -y
+```
 
 **Run the following commands one by one:**
 
