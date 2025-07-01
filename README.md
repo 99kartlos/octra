@@ -30,7 +30,7 @@ On Windows:
 start.bat
 ```
 
-If there is no access to port 8888, grant access with this command: ``` sudo ufw allow 8888 ```
+If there is no access to port 8888, get access with this command: ``` sudo ufw allow 8888 ```
 
 **Open browser and go to:**
 
