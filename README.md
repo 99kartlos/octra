@@ -39,7 +39,6 @@ If there is no access to port 8888, get access with this command: ``` sudo ufw a
 **Now you can get Faucet**
 
 Visit Faucet page and Enter your address.. : https://faucet.octra.network/
-Enter your address..
 
 ![image](https://github.com/user-attachments/assets/b847625d-6da5-4c7d-8ed6-ce1149324f04)
 
