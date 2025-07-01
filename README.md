@@ -1,3 +1,10 @@
+# Octra Testnet Tasks
+
+![image](https://github.com/user-attachments/assets/08751c61-b0fb-4590-a090-ff37dac685b1)
+
+Twitter: https://x.com/octra
+Discord: https://discord.gg/octra
+
 # How to Run the Wallet Generator
 
 **Clone the repository and go into the folder:**
