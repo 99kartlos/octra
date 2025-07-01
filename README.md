@@ -23,9 +23,11 @@ start.bat
 If there is no access to port 8888, grant access with this command: ``` sudo ufw allow 8888 ```
 
 **Open browser and go to:**
+
 👉 http://serverip:8888 or http://localhost:8888 (if you not use VPS)
 
 **Now you can get Faucet**
+
 Visit Faucet page : https://faucet.octra.network/
 Enter your address..
 
@@ -78,5 +80,6 @@ After running it you will see a user interface like this
 ![image](https://github.com/user-attachments/assets/2d26c1b5-a31b-464b-bf50-1c8123dffdae)
 
 **Now you can send token** 
+
 If you wanna you can send me token ``` octDFCm6MYvDDz2k7Mn89Ftwap943xdMtqdE3NHcuQG6QyV ``` or check discord you'll see many address there.
 You can check your TX here: https://octrascan.io/
