@@ -8,7 +8,7 @@
 
 ------
 
-# How to Run the Wallet Generator
+# Let's Generate Wallet
 
 **Clone the repository and go into the folder:**
 
