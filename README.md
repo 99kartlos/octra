@@ -44,7 +44,7 @@ Visit Faucet page and Enter your address.. : https://faucet.octra.network/
 
 ------
 
-# First task:
+# First task (updated version):
 
 **First let's setup python libraires**
 
